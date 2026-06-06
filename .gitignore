@@ -1,0 +1,29 @@
+.git
+.env
+.DS_Store
+
+# Airflow
+airflow_settings.yaml
+airflow-webserver.pid
+webserver_config.py
+airflow.cfg
+airflow.db
+logs/
+
+# Astro
+astro
+.astro/standalone/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Dataset files
+include/*.parquet
+include/*.csv
+include/*.json
+include/*.jsonl
+
+# Keep include folder in git
+!include/.gitkeep
