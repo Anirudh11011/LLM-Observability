@@ -1,5 +1,6 @@
 <img width="2632" height="1468" alt="image" src="https://github.com/user-attachments/assets/a024b735-d39d-4c4b-bf12-42f6a21cba20" />
-<img width="2632" height="1468" alt="image" src="https://github.com/user-attachments/assets/8bd2da43-9154-437b-8b3f-0cad4b160825" />
+<img width="1317" height="719" alt="Screenshot 2026-06-22 at 11 53 08 PM" src="https://github.com/user-attachments/assets/68362cc7-24a9-402a-b12f-56e2569b0a5d" />
+
 
 
 # LLM-Observability
